@@ -209,7 +209,4 @@ Include any configuration instructions (e.g., `application.properties`, `.env`, 
 
 
 ## 📝 License
-
-Specify your license here. For example:
-
-This project is**for educational purposes only**
+This project is **for educational purposes only**
