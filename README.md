@@ -43,6 +43,7 @@ This project is intended as a learning project for Database Course.
 
 ## 🧱 Project Structure
 
+```text
 Library-Management-System/
 ├─ src/
 │  └─ main/
